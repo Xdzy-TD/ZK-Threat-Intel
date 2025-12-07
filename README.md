@@ -140,11 +140,12 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contact
 Sourabh Dey
-Tushar Das
+Tushar Das (Contributor)
 
 GitHub: @sourabh200401
         @Xdzy-TD
 
 Email: sourabhdey981@gmail.com
        tushardas261104@gmail.com
+
 
